@@ -2,7 +2,8 @@
 
 ## 🏆 Achievements
 
-### 🥈 IFIA Silver Medal
+### [🥈 IFIA Silver Medal](./IMG_20260817_135102_788.jpg)
+
 Silver Medalist in the IFIA Ideas Competition.
 
 ### 🌍 IFIA Member
