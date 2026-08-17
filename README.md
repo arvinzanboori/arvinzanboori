@@ -1,13 +1,15 @@
 # Arvin Zanboori
 
-## 🏆 Achievements
+**🏆 Achievements**
 
-### [🥈 IFIA Silver Medal](./IMG_20260817_135102_788.jpg)
+**[🥈 IFIA Silver Medal](./ifia-silver-medal.jpg)**
 
 Silver Medalist in the IFIA Ideas Competition.
 
-### 🌍 IFIA Member
+**[🌍 IFIA Member](./inv-member.jpg)**
+
 Member of the International Federation of Inventors' Associations (IFIA).
 
-## 💻 About Me
+**💻 About Me**
+
 Python Developer | AI & Machine Learning Enthusiast
